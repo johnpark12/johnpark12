@@ -2,8 +2,6 @@
 
 ---
 
-<img align="right" alt="GIF" src="YourGIFLink" width="500" height="320" />
-
 ## 📌 About Me
 
 📍 I'm a Computer Science graduate from Stony Brook University, with a passion for developing efficient and user-friendly software solutions.
