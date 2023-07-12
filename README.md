@@ -21,7 +21,7 @@
 
 ## 💼 Experience
 
-* Graduate Research Assistant | School of Health Professions, Stony Brook University, New York - April 2022 - December 2022
+* Graduate Research Assistant | School of Health Professions, Stony Brook University, New York - April 2022 - Current
 * Software Engineer Intern | RIVO Ltd, Incheon, South Korea - August 2020 - January 2021
 * Software Engineer Intern | MangoPay Ltd, Incheon, South Korea - July 2020 - November 2020
 * Java Teaching Assistant | Stony Brook University, NY - February 2019 - June 2019
@@ -29,15 +29,9 @@
 
 ## 📚 Education
 
-* Master of Science in Computer Science | Stony Brook University, NY - Graduated May 2023 - GPA: 3.55/4.0
-* Bachelor of Science in Computer Science | Stony Brook University, NY - Graduated December 2021 - GPA: 3.61/4.0
+* Master of Science in Computer Science | Stony Brook University, NY - Graduated May 2023
+* Bachelor of Science in Computer Science | Stony Brook University, NY - Graduated December 2021
 
 ## 📬 Contact Me
 
-You can reach me on: [![LinkedIn][1.2]][1]
-
-<!-- Icons -->
-[1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-[1]: https://www.linkedin.com/in/johnpark21
+You can reach me on: [[![LinkedIn][1.2]][1]](https://www.linkedin.com/in/johnpark21)
